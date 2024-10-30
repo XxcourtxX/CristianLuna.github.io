@@ -4,6 +4,7 @@
 
 ## Education
 - High School Diploma | Kennesaw Mountain High School (_May 2022_)
+- Google Cyber Security Certificate (On Going)
 
 ## Strengths
 - Problem Solving: Skilled at identifying, analyzing, and mitigating security vulnerabilities
